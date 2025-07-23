@@ -67,6 +67,9 @@ Broadcast: 192.168.0.127
 
 🖼️ A network topology graph will be displayed as a tree.
 
+![ex-1](./ex-1.jpg)
+
+
 ---
 
 ## 🧠 Learning Objectives

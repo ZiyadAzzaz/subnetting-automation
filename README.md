@@ -89,6 +89,8 @@ Broadcast: 192.168.0.127
 4. Prints subnet info and binary representations  
 5. Uses `networkx` to plot a topology tree
 
+👉 [View the complete source code](https://github.com/ZiyadAzzaz/subnetting-automation/blob/main/subnetting-automation.py)
+
 ---
 
 ## 📁 Project Structure
